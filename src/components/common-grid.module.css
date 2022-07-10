@@ -1,0 +1,14 @@
+.header{
+  grid-area: header;
+  border-style: dotted;
+}
+
+.navbar{
+  grid-area: navbar;
+  border-style: dotted;
+}
+
+.footer{
+  grid-area: footer;
+  border-style: dotted;
+}
