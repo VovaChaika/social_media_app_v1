@@ -1,2 +1,2 @@
 .content{display:grid;grid-template-areas:"header header" "navbar content" "footer footer";grid-gap:10px;grid-template-columns:1fr 7fr}.common-grid_header__2p4Ow{grid-area:header;border-style:dotted}.common-grid_navbar__2NxYG{grid-area:navbar;border-style:dotted}.common-grid_footer__T74MM{grid-area:footer;border-style:dotted}.about_content__20z1f,.dialogs_content__1osOD,.games_content__aQOK7,.profile_content__3FTZy,.users_content__1mbBV{grid-area:content;border-style:dotted}
-/*# sourceMappingURL=main.5262157c.chunk.css.map */
+/*# sourceMappingURL=main.02bb2650.chunk.css.map */
